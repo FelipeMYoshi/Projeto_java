@@ -9,13 +9,13 @@ public class DesafioConversao {
         Scanner teclado = new Scanner(System.in);
 
         System.out.print("Digite os três ultimos salários: \n");
-        System.out.print("Digite salário 1: \n");
+        System.out.print("Digite salário 1: ");
         String valor1 = teclado.next().replace(",", ".");
 
-        System.out.print("Digite salário 2: \n");
+        System.out.print("Digite salário 2: ");
         String valor2 = teclado.next().replace(",", ".");
 
-        System.out.print("Digite salário 3: \n");
+        System.out.print("Digite salário 3: ");
         String valor3 = teclado.next().replace(",", ".");
 
         double salario1 = Double.parseDouble(valor1);
