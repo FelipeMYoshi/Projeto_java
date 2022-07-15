@@ -3,7 +3,7 @@ package fundamentos.operadores;
 public class DesafioLogicos {
 
     public void executar(){
-        // Criar exercício com com hipótese se trabalhar nos dois serviços compra a TV de 50"
+        // Criar exercício com a hipótese se trabalhar nos dois serviços compra a TV de 50"
         //e toma sorvete
 
         boolean job1 = true;
