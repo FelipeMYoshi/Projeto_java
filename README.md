@@ -24,3 +24,7 @@ Programação Funcional com Java
 Desenvolver WebService com Spring Boot e Banco de Dados
 Java Desktop: Swing e JavaFX
 Desenvolver projetos reais
+
+
+JRE(usuário) x JDK(desenvolvedor)
+“Escreva uma vez. Execute em qualquer lugar.”
